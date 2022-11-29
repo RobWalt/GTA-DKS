@@ -54,6 +54,5 @@ Check the [examples](https://a-nau.github.io/markdownslides/getting_started#/03_
 - [Jekyll](//github.com/jekyll/jekyll): [MIT licensed](//github.com/jekyll/jekyll/blob/master/LICENSE)
 - [reveal.js](//github.com/hakimel/reveal.js): [MIT licensed](//github.com/hakimel/assets/reveal.js/blob/master/LICENSE), Copyright (C) 2016 Hakim El Hattab, http://hakim.se
 - [reveal-jekyll](//github.com/tasmo/reveal-jekyll): [MIT licensed](//github.com/tasmo/reveal-jekyll/blob/master/LICENSE), Copyright (C) 2016 Thomas Friese, http://tasmo.rocks
-- [Github CSS Ribbon](https://github.com/simonwhitaker/github-fork-ribbon-css): [MIT licensed](https://github.com/simonwhitaker/github-fork-ribbon-css/blob/gh-pages/LICENSE), Copyright (c) 2013 Simon Whitaker
 
 Easy Markdown Slides: [MIT licensed](./LICENSE), Copyright (C) 2021 Alexander Naumann, https://a-nau.github.io
