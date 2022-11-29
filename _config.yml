@@ -1,6 +1,6 @@
 # Basic config, that must be set correctly
-baseurl: /GTA-DKS
-githuburl: https://github.com/RobWalt/GTA-DKS/
+baseurl: /markdownslides
+githuburl: https://github.com/RobWalt/markdownslides/
 
 # Further config
 markdown_slide_separator: ---
